@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/myPortfolio/static/css/main.e2b7a15b.css",
+    "main.js": "/myPortfolio/static/js/main.de77b5b6.js",
+    "static/js/787.1f11dfe9.chunk.js": "/myPortfolio/static/js/787.1f11dfe9.chunk.js",
+    "static/media/Arvideo1.png": "/myPortfolio/static/media/Arvideo1.e4c345f86d7feb86a8f4.png",
+    "static/media/Weatherapp.png": "/myPortfolio/static/media/Weatherapp.4913022fd8154cf6555c.png",
+    "static/media/booksListingHome.png": "/myPortfolio/static/media/booksListingHome.4fa3723f997b3c02ead6.png",
+    "static/media/portfolio.png": "/myPortfolio/static/media/portfolio.531f4ff02d92e1188e9c.png",
+    "static/media/resultManagement.png": "/myPortfolio/static/media/resultManagement.87c49ba8bdcb53ff98b2.png",
+    "static/media/Dtool2.png": "/myPortfolio/static/media/Dtool2.65f753dd8ca2f64d1413.png",
+    "static/media/Dtool3.png": "/myPortfolio/static/media/Dtool3.fcbc1ae21e88b43f5aa3.png",
+    "static/media/Dtool1.png": "/myPortfolio/static/media/Dtool1.cb7b29f36c10f82b13d3.png",
+    "static/media/leetcode.png": "/myPortfolio/static/media/leetcode.7e80f19dc3200739ff20.png",
+    "static/media/Postman.png": "/myPortfolio/static/media/Postman.5525e719238d6eb41e62.png",
+    "static/media/PythonIcn.png": "/myPortfolio/static/media/PythonIcn.e3f347b95fd474d38054.png",
+    "static/media/gmail.png": "/myPortfolio/static/media/gmail.4bdf6627e0898a3a2961.png",
+    "static/media/Visual-studio-codeIcn.png": "/myPortfolio/static/media/Visual-studio-codeIcn.846946a303cdf7f9534e.png",
+    "static/media/CppIcn.png": "/myPortfolio/static/media/CppIcn.c714aed4936fa0f9a9ee.png",
+    "static/media/CSharpIcn.png": "/myPortfolio/static/media/CSharpIcn.665bb820b8c013e0941a.png",
+    "static/media/github.png": "/myPortfolio/static/media/github.6c75ee05afe7a8976267.png",
+    "static/media/GoIcn.png": "/myPortfolio/static/media/GoIcn.6a3cd1884425f3b03c7d.png",
+    "static/media/MySQLIcn.png": "/myPortfolio/static/media/MySQLIcn.01a9f618f56bd568a41a.png",
+    "static/media/JavaIcn.png": "/myPortfolio/static/media/JavaIcn.490ae4542ec993944cb6.png",
+    "static/media/CIcn.png": "/myPortfolio/static/media/CIcn.91e24f367f93cf750710.png",
+    "static/media/EclipseIcn.png": "/myPortfolio/static/media/EclipseIcn.fc107894f2a0b7932fcf.png",
+    "static/media/UnityIcn.png": "/myPortfolio/static/media/UnityIcn.76ccec41eb234848c4f4.png",
+    "static/media/NodeJSIcn.png": "/myPortfolio/static/media/NodeJSIcn.0d739f22e4df4fa6c5e1.png",
+    "static/media/rightArrow.svg": "/myPortfolio/static/media/rightArrow.b3c3adc376b98c7b5c625eb593c77e10.svg",
+    "index.html": "/myPortfolio/index.html",
+    "main.e2b7a15b.css.map": "/myPortfolio/static/css/main.e2b7a15b.css.map",
+    "main.de77b5b6.js.map": "/myPortfolio/static/js/main.de77b5b6.js.map",
+    "787.1f11dfe9.chunk.js.map": "/myPortfolio/static/js/787.1f11dfe9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2b7a15b.css",
+    "static/js/main.de77b5b6.js"
+  ]
+}
